@@ -9,4 +9,7 @@ nav .navbar-nav li a{
 
 #accordion{
   padding-top: 100px;
+  width: 50%;
+  text-align: center;
+  margin-left: 25%
 }
