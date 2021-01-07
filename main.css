@@ -13,3 +13,19 @@ nav .navbar-nav li a{
   text-align: center;
   margin-left: 25%
 }
+
+#myprojects {
+  padding-top, padding-bottom: 50px;
+  font-family: Serif;
+  text-align: center;
+  font-style: italic;
+}
+
+#ebayimage {
+  width: 10%;
+}
+
+#projectrow1 {
+  margin-left: 12%;
+  margin-right: 12%;
+}
