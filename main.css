@@ -1,12 +1,12 @@
 nav .navbar-nav li a{
   color: white !important;
+  font-family: Arial;
   }
 
-body {
-   padding-top: 70px;
-   background-image: url(garoup.PNG);
- }
+.navbar-brand {
+  font-family: Arial;
+}
 
- #aboutme{
-   overflow: hidden;
- }
+#accordion{
+  padding-top: 100px;
+}
