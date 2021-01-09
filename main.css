@@ -16,12 +16,14 @@ nav .navbar-nav li a{
 
 #myprojects {
   padding-top, padding-bottom: 50px;
-  font-family: Arial;
+  font-family: Impact;
   text-align: center;
   font-style: italic;
+  background-color: red;
+  color: white;
 }
 
-#ebayimage, #emailimage, #networkimage {
+.card-img-top float-right {
   width: 100%;
   text-align: center;
 }
@@ -35,4 +37,16 @@ nav .navbar-nav li a{
 
 h5, p, .text-muted {
   font-family: Arial;
+}
+
+#githublink {
+  background-color: purple;
+  color: white;
+  width: 50%;
+  margin-bottom: 10px;
+}
+
+#youtubelink {
+  color: red;
+  background-color: white;
 }
