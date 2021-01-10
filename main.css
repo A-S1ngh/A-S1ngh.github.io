@@ -46,7 +46,7 @@ h5, p, .text-muted {
   margin-bottom: 10px;
 }
 
-#youtubelink {
+#youtubelink, #obviousalert {
   color: red;
   background-color: white;
 }
