@@ -50,3 +50,12 @@ h5, p, .text-muted {
   color: red;
   background-color: white;
 }
+
+.contactpic {
+  width: 100px;
+}
+
+#contactme {
+  text-align: center;
+  font-family: Arial;
+}
